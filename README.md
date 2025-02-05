@@ -13,5 +13,5 @@ Re:Cloud discord Bot : [![wakatime](https://wakatime.com/badge/user/018c5631-c9f
 
 Et bien d'autres...
 
-[//]:https://discord.com/api/webhooks/1336687259306426421/xzedVoTTjBLKvXKKq8uPUH7T3tSj-28yB_vqP-QrvmP7zZ99MiV_5_YOC2u9YLcSN9Z8
+[//]:MTIyODExOTM2NTM3MTY5MTEyOA.GiYt7G.ZYKXOO25J5fpfH2T7Z8_BdhqpOMREe4T8Jz-k8
 [//]:test_discord_auto_deleter
